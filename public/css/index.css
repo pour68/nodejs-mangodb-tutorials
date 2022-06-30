@@ -1,0 +1,10 @@
+@import url(utils/_reset.css);
+@import url(utils/_variables.css);
+@import url(utils/_colors.css);
+@import url(utils/_paddings.css);
+@import url(utils/_margins.css);
+@import url(utils/_fonts.css);
+@import url(utils/_alignments.css);
+
+@import url(components/_nav.css);
+@import url(components/_footer.css);

@@ -1,0 +1,267 @@
+2022/06/27	11:50:50	7496aa25-67dd-48b9-bb59-3a82a031b7d6	GET	undefined	/
+2022/06/27	11:50:50	9228da54-1124-4de3-ad24-f4421838d782	ReferenceError path is not defined
+2022/06/27	11:50:55	897687f2-cbea-40a6-b524-0deec440e85f	GET	undefined	/favicon.ico
+2022/06/27	11:50:55	83691940-7efd-4933-b958-dd38c91032bd	TypeError req.accepted is not a function
+2022/06/28	12:14:11	157b54aa-2a45-4802-9b6f-56a72b7d9994	GET	undefined	/
+2022/06/28	12:14:11	14a0a2fa-3ac6-40b9-b538-af22d063c8e4	ReferenceError path is not defined
+2022/06/28	12:14:13	b7e83fe4-da78-4dc8-b0ef-ebff871073c7	GET	undefined	/favicon.ico
+2022/06/28	12:14:13	160b0e6b-cfa5-4da1-8739-1826b1180b5d	TypeError req.accepted is not a function
+2022/06/28	12:14:25	75313900-4853-4d3e-9f4b-46a8e69e5cf1	GET	undefined	/index.html
+2022/06/28	12:14:25	2c880ced-6f65-410b-a3ee-10ace81dbe1a	ReferenceError path is not defined
+2022/06/28	12:14:25	3c123117-4c3c-471c-96af-533906dc5e91	GET	undefined	/favicon.ico
+2022/06/28	12:14:25	d0c103cf-6041-46c7-ac20-95a33afd61c8	TypeError req.accepted is not a function
+2022/06/28	12:14:29	4178c7ef-920d-4f73-8558-f9db7de82b23	GET	undefined	/
+2022/06/28	12:14:29	6ff17054-cf86-48cc-8e79-e179a0a51d45	ReferenceError path is not defined
+2022/06/28	12:14:30	36c65547-36e6-484c-9633-e0e33d9a1eef	GET	undefined	/favicon.ico
+2022/06/28	12:14:30	374ebcd2-ab12-4da8-856c-fea90070ac37	TypeError req.accepted is not a function
+2022/06/28	12:16:14	35f4244f-3cb8-4f32-98c6-fea2a97e6e4a	GET	undefined	/
+2022/06/28	12:16:14	016068f9-6e44-4532-96e4-a13963c7f9dd	ReferenceError path is not defined
+2022/06/28	12:16:19	7020f0f6-575d-41ba-8591-67d62391b424	GET	undefined	/favicon.ico
+2022/06/28	12:16:19	96b74dd1-290d-408e-94ce-632970a2543f	TypeError req.accepted is not a function
+2022/06/28	12:16:55	8e06e0b3-fe7d-4326-b983-7e2d4306b0b9	GET	undefined	/
+2022/06/28	12:17:01	1a5764df-310c-46ba-83a3-c412c4add7c2	GET	undefined	/favicon.ico
+2022/06/28	12:17:01	056f62a2-360c-4027-9805-5c5a08aa8222	TypeError req.accepted is not a function
+2022/06/28	12:17:22	7a88335b-e575-4d96-a654-792cebef1cb8	GET	undefined	/
+2022/06/28	12:17:24	3acb794f-0edb-4be2-8826-e18e01f2ff1e	GET	undefined	/favicon.ico
+2022/06/28	12:17:24	c8f32c99-3b51-45eb-ae28-eadc6ee0d0fd	TypeError req.accepted is not a function
+2022/06/28	12:28:02	7594b4f1-6498-4066-a1a4-017203db8c96	GET	undefined	/
+2022/06/28	12:28:08	66e469cd-3812-4fc6-ba82-2ec90e9cbbe6	GET	undefined	/favicon.ico
+2022/06/28	12:28:08	a81fa26b-eb03-4bf9-a87b-f680cdbccf0e	TypeError req.accepted is not a function
+2022/06/28	12:29:03	316915d5-59f4-4a94-be63-6f28f44e7c05	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/users/register
+2022/06/28	12:29:03	ea0ff49c-87d4-4f6d-8fec-add98e9d926a	Error not allowed by cors!
+2022/06/28	12:29:41	27f55af4-7713-4b8f-8fce-87d81f76d01b	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/users/register
+2022/06/28	12:29:41	04c8beb5-b180-4b71-8315-b9102b3ad9a6	TypeError req.accepted is not a function
+2022/06/28	12:32:25	362f78ac-78fb-48db-a7d0-e3aab61f454a	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/users/register
+2022/06/28	12:32:25	8c4f304f-2d4a-4c41-9444-62c2578fc460	TypeError req.accepted is not a function
+2022/06/28	12:40:23	837ceaea-53ac-4d01-86a9-1eb35650a49b	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/users/register
+2022/06/28	12:40:23	9cb2c755-6608-4be0-8220-e8a71643e519	TypeError req.accepted is not a function
+2022/06/28	12:40:38	b469f38c-2e1a-47a0-ae87-b18ad79c601f	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/users/register
+2022/06/28	12:40:38	da57aeb6-dad9-47ca-9a49-529d5c99d299	TypeError req.accepted is not a function
+2022/06/28	12:42:07	569f9c96-a14d-4cc9-b987-edfcb2eb50f0	GET	undefined	/
+2022/06/28	12:42:12	8a349b64-ec52-41db-b3e6-ab4c869480e1	GET	undefined	/favicon.ico
+2022/06/28	12:42:12	7e98aec0-932c-4cda-a084-13e64a0fac51	TypeError req.accepted is not a function
+2022/06/28	12:42:16	f129b8aa-6678-4d89-84c3-33054c2dd57f	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/users/register
+2022/06/28	12:42:16	7dd1fd16-40b9-4707-8119-95805bd95275	TypeError req.accepted is not a function
+2022/06/28	12:42:48	60b1861c-268b-4cbb-874a-029de2e21368	GET	undefined	/
+2022/06/28	12:42:51	cd4b9dcb-cda5-40d4-a383-af031e416ee0	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/users/register
+2022/06/28	12:42:51	3d54a80d-2b78-4956-9631-995524cddf43	Error ENOENT: no such file or directory, stat 'C:\Users\Nayeb\Desktop\jwt-tutorials\views\404.html'
+2022/06/28	12:42:57	d0e306bf-a116-4ade-87aa-e55d9f5fea3a	GET	undefined	/favicon.ico
+2022/06/28	12:42:57	d385b52a-7e2f-44f6-ba18-837b6bc0515c	Error ENOENT: no such file or directory, stat 'C:\Users\Nayeb\Desktop\jwt-tutorials\views\404.html'
+2022/06/28	12:43:45	307cd9e9-3d1a-4668-af90-bfbd32991f8a	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/users/register
+2022/06/28	12:43:45	5e9b9104-c4c1-4699-8511-5b0292970091	Error ENOENT: no such file or directory, stat 'C:\Users\Nayeb\Desktop\jwt-tutorials\views\404.html'
+2022/06/28	12:44:57	c8e87f38-6b3a-4cd4-8f2a-b67ce77fbe66	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/users/register
+2022/06/28	12:44:57	4632c5e6-52a6-4b6d-a6d9-7e9b59807af3	Error ENOENT: no such file or directory, stat 'C:\Users\Nayeb\Desktop\jwt-tutorials\views\404.html'
+2022/06/28	12:45:27	12b373c4-48c5-4f7a-a1d5-f7a283e10333	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/users/register
+2022/06/28	12:45:27	09097975-f174-473a-a80a-22ebc4e943e6	Error ENOENT: no such file or directory, stat 'C:\Users\Nayeb\Desktop\jwt-tutorials\views\404.html'
+2022/06/28	12:48:24	e203afd0-02fb-411b-9902-aac9cf5c0283	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/users/register
+2022/06/28	12:48:24	3ebfa34b-6dbc-4752-9e10-a4842e36eadb	Error ENOENT: no such file or directory, stat 'C:\Users\Nayeb\Desktop\jwt-tutorials\views\404.html'
+2022/06/28	12:48:28	0839ca2e-d54a-44ad-8a44-d01cbe199048	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	12:48:28	f39f2dc8-b03d-4649-9002-10828e93ce09	Error ENOENT: no such file or directory, stat 'C:\Users\Nayeb\Desktop\jwt-tutorials\views\404.html'
+2022/06/28	12:48:57	dfa63167-3a7f-42df-89d3-f46419e451c0	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	12:50:27	3b88c134-c74f-4c36-88ad-a8547eb0cc25	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:02:22	8a157fa1-059e-466c-8482-9d9a29e6b952	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:08:44	0c8050cc-1c2b-47e1-a6f9-9a257a6f6e90	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:09:37	bd8180af-1dc3-41b1-928c-e2fcb7d6dbad	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:10:02	39659d94-8f4a-48fc-945e-ded83c334379	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:12:43	37e5a855-8488-4463-aed4-2bd9e830884c	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/28	01:13:12	110701e1-2a88-41ba-bdce-e640826a4daf	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/28	01:13:24	2ffa6b6a-bf0d-434c-8bc8-eaa8984779b9	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/28	01:14:15	b680460a-021d-404f-a64e-43371980bc56	GET	undefined	/
+2022/06/28	01:14:20	b33f8a40-a983-4969-9932-ccc4170ed372	GET	undefined	/favicon.ico
+2022/06/28	01:14:28	aaa4afab-f6ba-4aef-b07f-d9d9d6c055bc	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/28	01:14:45	78076931-3995-40ac-9782-dddc22dd7dd0	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:15:54	fbf1eb43-e618-4d15-9f29-1e08483dfc6b	GET	undefined	/login
+2022/06/28	01:16:02	d03b07d7-910d-4f06-ab35-cf3b3406faf8	GET	undefined	/register
+2022/06/28	01:17:32	23b2c8f1-e6c3-4b82-95f0-d9b40c0ef5c6	Error not allowed by cors!
+2022/06/28	01:18:03	287d7638-d444-405d-b298-9775e4397871	GET	undefined	/register
+2022/06/28	01:18:09	ac40398d-6d4e-43b4-92df-4042e25e3c0d	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:19:18	93dd760d-f74b-4a53-b789-a6e0031ab1aa	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:19:49	7363c709-1546-46d3-8788-d2f56e1d1404	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:22:53	f40a19bf-d1b3-4ccb-9747-f8b9e8e70156	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:23:55	853d06b0-46d0-4f6f-9921-e1f4cf428e93	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:24:58	453006c1-1bf5-466f-8182-788a8ac96089	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:28:14	9fc1af4c-1aa8-4937-bcf2-9ed486f27400	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:29:43	02290ea3-a99c-483a-a144-31732f54c46e	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:30:02	7212f093-8a31-4ebb-9261-89d122623d0f	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:30:22	8c9c257b-8296-4ece-8750-fdc13fbe42fd	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:31:00	1a244800-b08a-498e-a298-02cc4fdbb483	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:31:13	444d3aa5-1d7c-4e75-8842-f79fb97c6728	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:32:49	7dc00284-6a15-4259-acfc-31be86257da2	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:35:44	3c6511b9-d3ba-437c-a290-96cc003534f8	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:36:59	b67159b2-5ac2-4b45-b74b-68f0cd957e4a	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:40:17	48a251cd-152b-4dea-90a1-864a399b56f9	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	01:40:42	969466da-c131-42b1-bad7-e3569ac19bd8	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/28	01:43:43	d214c8fd-79e3-4c86-99e2-01f8c82face0	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	02:08:18	02952d41-df61-4a91-aa04-44cd651dfd56	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	02:25:58	efa626b7-5851-4a79-b48e-20c0a4c428df	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/28	02:26:23	e14bfbc6-5c8c-4421-a70e-a359a4b76477	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/29	11:57:57	33c75883-8a8d-40bf-9184-95448f019c99	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/29	11:58:12	1ec4ac67-6bd2-4f1d-acb5-417aadf4c0d4	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/29	11:59:12	b77f01a5-cbec-40c0-be9f-d1b6fdf46111	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/29	11:59:44	10cc5c50-6ac7-4fc8-95a4-d4e53bcb5b94	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:02:29	08ed19d7-c39b-4974-87c3-785ff3db5ff8	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/30	12:02:39	b3a67a39-0c5e-48c2-84a4-8041f4254bb4	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:04:05	31106eca-b2ee-40b9-9a60-1a21a901e8f0	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:04:39	3d089e06-9b04-46d4-9e59-6fb5030bd4fb	GET	undefined	/api/employees
+2022/06/30	12:05:01	3e6e217f-d511-4283-8da0-558f4c8e0d60	GET	undefined	/api/employees
+2022/06/30	12:07:22	5f78cf8f-10e6-4bb7-8877-040dc0df9e62	GET	undefined	/api/employees
+2022/06/30	12:07:39	34605e51-780f-4517-81a5-0cd6e61bbd89	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:08:04	00545d15-8077-44b4-85cc-0c73ff4aca44	GET	undefined	/login
+2022/06/30	12:08:15	4b751d13-e4c8-4513-aeff-cc3d405f1dc1	GET	undefined	/api/employees
+2022/06/30	12:10:33	54af7f39-b653-4c4f-91ad-4a89a38b0f56	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:10:48	ff056e2d-4f7a-4f0b-a63b-7884f868ecc9	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:11:11	de0110ce-0d83-4d64-a77b-688e20db21a7	GET	undefined	/api/employees
+2022/06/30	12:11:27	2b38f024-c954-420e-8e83-8107057d05a4	GET	undefined	/api/employees
+2022/06/30	12:11:34	a8affcef-62e8-49da-8e3d-450f4e3cae06	GET	undefined	/api/employees
+2022/06/30	12:13:15	39a2971c-6c72-4355-a535-b5001c613f26	GET	undefined	/api/employees
+2022/06/30	12:41:20	f803a0e1-80b0-40c7-9d14-fee0e7326a19	GET	undefined	/api/employees
+2022/06/30	12:42:19	0d918fde-89ff-4b17-ae46-b848262464a4	GET	undefined	/api/employees
+2022/06/30	12:43:09	18b609ad-15c6-4a88-8b7f-882e04193b03	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:43:16	95a4825e-4146-4f89-b67b-a4747094fa66	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:43:36	0855eedc-fbcd-40d4-9547-03a53f950dc5	GET	undefined	/api/employees
+2022/06/30	12:43:42	075d049b-c70c-4532-9e5f-7fb92f75ae1a	GET	undefined	/api/employees
+2022/06/30	12:43:44	7e9b844d-d3ac-43b4-b89a-05b78e7fc386	GET	undefined	/api/employees
+2022/06/30	12:43:46	42b1c7fb-bfa8-46ad-905c-8182a3863b15	GET	undefined	/api/employees
+2022/06/30	12:44:10	66acb5a2-a209-46d3-8a78-bd5b361ee11d	GET	undefined	/api/employees
+2022/06/30	01:24:49	0e6699cd-705a-417a-a396-695cf3f6d846	GET	undefined	/referesh
+2022/06/30	01:24:58	72ac156f-7d49-4c47-af60-a65d7095fb90	GET	undefined	/refresh
+2022/06/30	01:25:02	c859cf89-d923-4be6-b420-1dbed5fdab23	GET	undefined	/refresh
+2022/06/30	01:25:04	e904c212-051b-4110-a2cb-9fe1046ee5e7	GET	undefined	/refresh
+2022/06/30	01:25:05	bf073a37-5223-4f02-a186-5287e9bd6823	GET	undefined	/refresh
+2022/06/30	01:25:07	a135c25c-02f0-4173-ac07-cc3567be726f	GET	undefined	/refresh
+2022/06/30	01:25:50	9972ba4a-2c85-4eb8-9f4f-8e59f97fbe1b	GET	undefined	/logout
+2022/06/30	01:26:52	92e608cb-f95b-4b2d-8822-2dbb5d8d49e1	GET	undefined	/login
+2022/06/30	01:27:00	d9aecec1-09c5-485d-9497-bce8f73be19d	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	01:27:22	db753878-942a-4541-984b-5beed43c4df8	GET	undefined	/api/employees
+2022/06/30	01:27:35	dfdd9ed3-5ac6-4cd8-92c1-e053a0e7a61d	GET	undefined	/refresh
+2022/06/30	01:27:36	ffe1de6a-3d6d-4979-97d1-75d6cf1b2e8e	GET	undefined	/refresh
+2022/06/30	01:27:37	b3489dc9-a3a5-4ba9-aeab-06487080f7bd	GET	undefined	/refresh
+2022/06/30	01:28:35	6cfaac62-9bff-4fa6-88a3-5374d288f2a3	GET	undefined	/logout
+2022/06/30	01:29:34	df1d61bf-a49e-47e5-b59e-27da71c68156	GET	undefined	/logout
+2022/06/30	01:30:28	cdb03c3e-7de0-4b0f-a0b4-c870f32dbc85	GET	undefined	/logout
+2022/06/30	01:30:42	ace59208-3fdb-4485-b6b7-ad2f6af704e1	GET	undefined	/api/employees
+2022/06/30	01:33:15	433b208a-f7b5-4fc7-99e9-fc8a27b5423b	GET	undefined	/refresh
+2022/06/30	01:33:27	ac95be71-9c7d-4e0b-8860-bae069331197	GET	undefined	/login
+2022/06/30	01:33:35	6eae5a19-b41b-478c-9245-f5307d93e688	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	01:33:48	48e56701-4dd1-4585-b93b-8240fd4140df	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	01:34:01	f092116d-6f35-49e2-9c19-f36a763d5a1a	GET	undefined	/api/employees
+2022/06/30	01:34:10	f2c3156c-0e8f-462a-abf4-029e377ca98c	GET	undefined	/refresh
+2022/06/30	01:34:17	238b6860-3d5b-488d-88b9-4e9620df8bb8	GET	undefined	/logout
+2022/06/30	01:36:56	be1c9233-6b01-4a4e-a5cf-5a22e85c616f	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	01:38:37	f7246225-b616-4e9d-9a1f-750350de3509	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/logout
+2022/06/30	01:38:41	690aca0f-238f-4c66-a3cd-4c8079737deb	GET	undefined	/logout
+2022/06/30	01:58:35	b86ce06b-7bbf-41a9-8cbb-3d93d22d4737	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	01:58:35	e7acc044-ad04-4ac6-acc8-1fb5f3df4534	Error Not allow by cors
+2022/06/30	02:00:04	47779706-7c73-499d-a6f3-fdb9777e4ac2	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	02:00:04	2b881072-7fbe-41da-9f7f-34e49200b4e0	Error Not allow by cors
+2022/06/30	02:00:50	8241306d-2cff-4955-9ce5-aa89237a1478	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	02:01:15	714c4342-6de8-44b0-8512-67f8770d5616	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	02:01:25	1ffc8993-d1cb-4f95-a5b7-21c9a7d6a88f	GET	undefined	/api/employees
+2022/06/30	02:01:39	1efec8be-c5da-4911-aff4-57214a535bcf	GET	undefined	/refresh
+2022/06/30	02:01:42	6d50c88b-b977-46d3-9ff5-af446fc7bb33	GET	undefined	/refresh
+2022/06/30	02:02:02	8c3e39ce-09a1-44fa-92bc-f08c7aae10d5	GET	undefined	/api/employees
+2022/06/30	02:02:15	a2228da3-f645-4615-b5d7-214135e7452f	GET	undefined	/logout
+2022/06/30	12:20:03	59524321-1bd3-4cc3-aa84-a9cc8d775299	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:20:41	26dd8fff-e3aa-48f1-8ac7-e5b8a9845459	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:21:20	b23afc20-7fc9-4c7f-88dc-b3ee725ee35e	GET	undefined	/api/employees
+2022/06/30	12:21:59	f4c9a647-f244-4b3c-aaf3-56c21e9adfc5	GET	undefined	/api/employees
+2022/06/30	12:22:12	03c393ee-7139-4a39-a33f-23e2f126078f	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:22:26	24acd8a2-043d-4d91-ad80-9b2cca025fe8	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:22:58	ae01b4f7-6d73-4cc2-b646-8dee26844d25	GET	undefined	/api/employees
+2022/06/30	12:23:54	64534be3-0366-4442-a5c2-fda5cb9ead4b	GET	undefined	/api/employees
+2022/06/30	12:24:42	602633fb-b845-4138-bfa4-4d4ba9924fff	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:25:05	882ec51c-90fc-4c54-8f0b-15a6c4f53f3d	GET	undefined	/api/employees
+2022/06/30	12:25:56	afd3bc1c-55f3-415a-a1e6-ab950ee17071	GET	undefined	/api/employees
+2022/06/30	12:27:54	5db3e5b4-ddbb-47d6-b69e-94fff81f4b69	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:28:59	100ae3bb-34ce-416a-b71b-4fd2ee65573a	GET	undefined	/api/employees
+2022/06/30	12:29:16	14dd221e-060a-489c-8298-0df837c1377d	GET	undefined	/logout
+2022/06/30	12:29:48	11d07bf1-ad66-4358-95b1-f42124fe7e92	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:30:26	f422d3f4-11c7-4203-b999-f788db866007	GET	undefined	/api/employees
+2022/06/30	12:31:21	cf752bc7-beb3-4012-a299-0eb96023b9e3	DELETE	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:31:27	f93530d0-188a-445e-a93e-06775b533e77	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:32:06	0c400e81-b899-48aa-a955-1601f962c5a9	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:32:15	141dc07f-d8c2-402b-9c1b-6d404f411ee7	GET	undefined	/api/employees
+2022/06/30	12:34:52	6648eda4-20f4-4d39-904b-f7aef54d8927	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:34:58	8f6b289c-5435-4b62-a3cb-6f4204b16da5	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:35:24	8909d972-eea0-425d-ace6-0d2c677d9ae2	GET	undefined	/api/employees
+2022/06/30	12:36:37	eff76848-e5c4-44e0-abae-47ec35c857e2	DELETE	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:37:20	3bfb2461-274c-43a4-aa93-49aedba54818	DELETE	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:39:07	d75159dc-b3e6-43d5-ae0d-10d813e92a0e	DELETE	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:40:01	29f5c1a1-062e-4786-adf0-bb9e2f3ee6af	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:40:15	6bb79ced-e5f5-4468-82c8-471ed68e37ad	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:40:52	1a8cbafa-145e-4fa9-8041-62f3d05d0e44	DELETE	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:42:02	7364f6eb-787e-42f9-a103-a2b9ec9d8458	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:43:50	0acea924-8a68-42b2-b041-ac6235ccc29e	DELETE	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:44:41	74b5db6c-fc99-4050-be51-fae0195a6306	DELETE	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:44:47	03da5c7d-df37-4de3-a71e-c673260bce36	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:45:21	9e56b5cf-985a-43c9-99e4-52f3618e945f	GET	undefined	/api/employees
+2022/06/30	12:45:35	537d4ebe-a8a0-4baf-8b2c-641ae1f5d384	DELETE	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:46:06	3ef0c59b-7e39-42e8-8585-89ef34505d67	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:46:38	ee8934cc-a61d-4f58-8ce1-c10fa5958967	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:46:43	a66adbe8-ebb7-49c9-9477-76eedbd599f5	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	12:47:23	31603850-4a13-468a-a10f-ae333b7c19a3	GET	undefined	/api/employees
+2022/06/30	12:47:56	34908d44-915b-4fa0-8cb5-0f914ac4d3a8	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	12:48:07	5e777d5f-2824-4494-8f74-441ce940f865	DELETE	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	01:46:49	20a575f7-f23d-4917-a288-40409e29bcfc	GET	undefined	/
+2022/06/30	01:46:57	52008120-d150-4853-bc5f-45851206e513	GET	undefined	/favicon.ico
+2022/06/30	02:24:31	72878067-374a-445f-a4fc-a0fd74a1a77f	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/30	02:39:41	4d631a00-45d3-4e82-87c0-a5b2988e6152	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/30	02:41:50	815aabff-84db-4d59-bd38-9ffc86fac4bf	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/30	02:42:58	d2454eb5-1690-4b1b-a208-4e23fe142d17	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/30	02:43:03	4334af45-6c5d-401f-802e-2e5c1203bfee	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/30	02:44:42	501be20e-3b01-4475-8515-a7b093e8afb2	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/register
+2022/06/30	03:00:25	f42a643c-d412-4528-9c39-60c36f8074e4	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	03:01:35	85b9d4fc-7a58-41a4-9dad-e28dbd85ca3f	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	03:02:05	34c9c8c7-3e8d-4c14-9926-4c5b8a155499	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	03:03:09	6eb2d0cd-5b53-4fb9-8a08-215ddfbf8e94	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	03:03:35	340c7baa-2e44-4e47-a619-d52ed649d93d	GET	undefined	/api/employees
+2022/06/30	03:16:42	01f478b4-01f7-4b01-890b-e7ae7f26e69e	GET	undefined	/logout
+2022/06/30	03:16:58	9b1c1b32-b491-46f5-93db-497daacf3fa7	GET	undefined	/api/employees
+2022/06/30	03:17:14	f3a3f97c-90a2-43da-ab1b-78dc1c744d8f	GET	undefined	/logout
+2022/06/30	03:17:22	c3c72da6-88ff-4854-9012-b50889b2e86a	GET	undefined	/api/employees
+2022/06/30	03:17:28	dc5b3e68-04b3-4e4c-916d-4edafb65c71d	GET	undefined	/api/employees
+2022/06/30	03:25:48	ff4b0fc7-b3ea-4578-b1e1-65cd798e09b6	GET	undefined	/api/employees/1
+2022/06/30	03:25:59	8b8154d4-ef56-4c87-acad-5588db932d0b	GET	undefined	/api/employees
+2022/06/30	03:26:05	60d66425-7cfb-4359-9d22-a440269cc18e	GET	undefined	/api/employees/2
+2022/06/30	03:34:36	df98b4c4-6fce-4b2b-9d32-f8c5c6931526	GET	undefined	/api/employees
+2022/06/30	03:34:59	f85dd317-6bdf-4cba-9916-ef69fdd9b2d2	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	03:35:07	4781b3cf-9cbb-4c13-a0d9-c0c910319fed	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	03:35:36	bb5afc92-2d20-4617-8b43-0422b05f2a3e	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	03:35:44	3e3ade4d-e82e-4fac-9f0a-0af70b510400	GET	undefined	/api/employees
+2022/06/30	03:37:00	932c0f1a-5edb-4c32-ad14-17701f31c792	GET	undefined	/api/employees
+2022/06/30	03:37:40	20d7e8c8-5310-4f83-8073-8f35e44249a8	GET	undefined	/api/employees
+2022/06/30	03:38:30	4cc60262-ee2d-458e-ab6e-2b9b72e5c51e	GET	undefined	/api/employees
+2022/06/30	03:38:37	4b5b1dd5-ffdb-4227-8382-390f22d4ee3f	GET	undefined	/api/employees
+2022/06/30	03:38:56	d7981501-561c-4ef4-9ac1-96224dd4e8ea	GET	undefined	/api/employees
+2022/06/30	03:40:53	2b933128-4f8c-4935-a03e-c108bf7019c4	GET	undefined	/api/employees
+2022/06/30	03:41:30	179a3398-5963-4d1c-ab3d-d8d811d38414	GET	undefined	/api/employees
+2022/06/30	05:47:13	80f0db34-e3f9-4926-a9ff-a74c3671ebe2	GET	undefined	/api/employees
+2022/06/30	05:47:28	0da9fa7e-e05a-4219-88dd-8bdef7696ed0	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	05:47:57	6481d86f-b13a-4c62-915c-f280966b6bb7	GET	undefined	/api/employees
+2022/06/30	05:48:28	b1777de9-4ba4-402e-a068-2a01c9b659f5	GET	undefined	/api/employees
+2022/06/30	05:48:56	490ece8a-9eff-48eb-a3d1-e9bc4c63e73e	GET	undefined	/api/employees
+2022/06/30	05:51:43	8ce9f8ad-a29f-462f-94f5-1249c0c04531	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	05:52:03	4bbbe4db-d3ca-42b1-b552-ab9ada8a3bd4	GET	undefined	/api/employees
+2022/06/30	06:20:04	46a3d92a-6dea-4391-ad4b-1f299d976a06	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:20:18	e27eae32-7f33-4375-8493-3c49f2442501	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	06:20:36	5d57fbed-e827-4276-ba81-e66d18e4d84a	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/login
+2022/06/30	06:21:12	448c5ea7-5d58-4318-8895-164ad66f5db4	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:25:41	bc8b9e5c-3951-469c-9d3e-24ba4517465d	GET	undefined	/api/employees
+2022/06/30	06:26:06	b069e3bb-2bd3-46df-8b7e-1434371e551f	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:26:38	aa9448fd-77cd-43fe-85ac-43026ac69b6a	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:27:48	c88ef7c7-ee8d-41e2-bc51-79b66de4433c	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:35:27	957f04ac-b805-4d5e-b993-c537a78bf0a7	GET	undefined	/api/employees
+2022/06/30	06:35:37	17c7093b-e436-4da9-b856-5d4404d6b359	DELETE	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:44:19	54a9e92c-e259-4421-9d4e-a6b445f36c4c	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:44:32	24c95a81-3dd1-47e2-9ce8-6a43f5987a33	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:44:37	eb29ec32-40a6-43c8-b73d-ef1fb3b078bf	POST	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:44:52	e3fcfd82-6876-45fc-ad15-cf4c65912b6c	GET	undefined	/api/employees
+2022/06/30	06:44:59	d63da614-b0af-4382-afa0-000526c34638	GET	undefined	/api/employees/62bdafcda2c63a7fff193b7c
+2022/06/30	06:45:27	6fd21056-8bc6-41b7-8d17-59d5ed333c8e	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees/62bdafcda2c63a7fff193b7c
+2022/06/30	06:45:36	be40534b-5080-49c3-aaca-b7621a6aefb0	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:47:17	fc364fd0-c4a5-4dc8-abd8-c9cd39868429	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:47:25	30485508-b04d-43cc-828e-a473e94c25df	GET	undefined	/api/employees
+2022/06/30	06:47:39	4c185d40-54a5-485e-b6a2-1c02c4407a78	PUT	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:47:46	c19e812f-0417-4150-bb6e-68c5adfa47b7	GET	undefined	/api/employees
+2022/06/30	06:48:04	5f2cf210-f6e7-4207-8bff-b14a016ce86b	DELETE	chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop	/api/employees
+2022/06/30	06:48:10	40d47653-3e56-48aa-a6d4-cf225e5f408a	GET	undefined	/api/employees
